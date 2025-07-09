@@ -1,0 +1,1 @@
+java -jar target/TorcsMLP-1.0-SNAPSHOT.jar scr.SimpleDriver host:localhost port:3001 verbose:on
